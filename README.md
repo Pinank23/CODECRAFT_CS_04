@@ -1,7 +1,9 @@
 # 🔑   LogPress T00L
 
 <div align="center">
-
+![Banner](https://github.com/Pinank23/CODECRAFT_CS_04/raw/main/banner.png)
+<br>
+  
 ![Keylogger](https://img.shields.io/badge/Tool-Keylogger-red?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
